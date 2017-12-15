@@ -6,5 +6,4 @@ The red dot in the center is the starting point, and the green dots represent pr
 
 It starts going 1 step to the right and wraps around anticlockwise.
 
-![](./10000.png | width = 500)
-
+<img src="./10000.png" alt="prime spiral 10000 steps" width="80%">
